@@ -1,2 +1,2 @@
 # Movie-Recommender-System
-This is an end to end movie recommender system project.
+This is an end-to-end content-based movie recommender system using cosine similarity. 
