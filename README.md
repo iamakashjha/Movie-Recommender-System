@@ -3,7 +3,7 @@ This is an end-to-end content-based movie recommender system using cosine simila
 
 I've deployed this model on the Hugging Face website. You can use it through the 
 
-**link:** https://huggingface.co/spaces/iamakashjha/Movie_Recommender_System
+**Check it out here:** https://huggingface.co/spaces/iamakashjha/Movie_Recommender_System
 
 Thank You
 
